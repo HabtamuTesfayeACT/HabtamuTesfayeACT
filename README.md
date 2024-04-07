@@ -10,5 +10,5 @@ Skills: Django / REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on Web development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HabtamuTesfayeACT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/habtamu-tesfaye-4285551b5/)  
+
 
