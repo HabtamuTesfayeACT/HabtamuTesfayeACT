@@ -19,9 +19,6 @@
     <a href="https://www.linkedin.com/in/habtamu-tesfaye-4285551b5" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
     </a>
-    <a href="https://leetcode.com/habtamu12/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
-    </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habtamutesfayeact&label=Profile%20views&color=0e75b6&style=flat" alt="habtamutesfayeact" /> </p>
